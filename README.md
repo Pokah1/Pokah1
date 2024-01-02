@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 🌄
+The name is Edikan (Victor or Pokah),
+I have always beleived that dreams do come to reality only if we put in the Work !.
+This is me officially welcoming you to my Github Page. I am currently learning Front-End development in AltSchool Africa. 
+I am eagerly open and willing to collaborate on building projects as well as open for corrections and more learning.
+Kindly reach out to me via email (edetedkikan647@gmail.com) for any info and assistance and I will be so much willing to collaborate.
+
+DON'T FORGET!
+"Nothing Is Impossible. The Word Itself says 'I'M Possible!"
+- Audrey Hepburn.
 
 <!--
 **Pokah1/Pokah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
