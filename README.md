@@ -66,8 +66,8 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
 ## 📫 Contact Me
 
 📧 **Email:** [edetedkikan647@gmail.com](mailto:edetedkikan647@gmail.com)  
-🌐 **LinkedIn / Portfolio:** *(https://www.linkedin.com/in/odokwo-dev01/)*  
-
+💼 **LinkedIn:** [linkedin.com/in/odokwo-dev01](https://www.linkedin.com/in/odokwo-dev01/)  
+🐦 **Twitter:** [@sir_pokah](https://twitter.com/sir_pokah)  
 
 ---
 
