@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Welcome to Edikan's GitHub </h1>
-<p align="center"><em>Front-End Developer | ALX Software Engineering Learner | Lifelong Tech Explorer</em></p>
+<p align="center"><em>Front-End Developer | ALT School Africa Certified | ALX Software Engineering Learner | Lifelong Tech Explorer</em></p>
 
 ---
 
