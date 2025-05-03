@@ -66,7 +66,9 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-edetedkikan647@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:edetedkikan647@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-odokwo--dev01-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/odokwo-dev01/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@sir__pokah-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/sir_pokah)
   
 
