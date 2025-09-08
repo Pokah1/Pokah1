@@ -1,13 +1,13 @@
-<!-- GitHub Profile README -->
+<h1 align="center">
+  Hi 👋, I'm Pokah  
+</h1>
 
-<h1 align="center">Welcome to Edikan's GitHub </h1>
-<p align="center"><em>Front-End Developer | ALT School Africa Certified | ALX Software Engineering Learner | Lifelong Tech Explorer</em></p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=600&lines=Frontend+Developer;Passionate+Learner;ALT+School+Certified;Building+Beautiful+Web+Experiences" alt="Typing SVG" />
+</h3>
 
----
 
-## 👋 Hello there!
-
-I’m **Edikan** — also known as **Victor** or **Pokah** — a passionate **Front-End Developer** and a dedicated learner currently enrolled in the **ALX Software Engineering Program**. I started this journey because I’m inspired by the power of technology to transform lives and communities, and I believe that **dreams become reality through hard work and persistence**.
+I’m *Pokah Dev* — a passionate **Front-End Developer** and a dedicated learner currently enrolled in the **ALX Software Engineering Program**. I started this journey because I’m inspired by the power of technology to transform lives and communities, and I believe that **dreams become reality through hard work and persistence**.
 
 ---
 
