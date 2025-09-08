@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Pokah  
+  Hi 👋, I'm Pokah Dev 
 </h1>
 
 <h3 align="center">
@@ -86,19 +86,20 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
 
 ### 📫 Connect with Me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/odokwo-dev01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://twitter.com/Sir_Pokah" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:edikanodokwo@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
