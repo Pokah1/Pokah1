@@ -27,21 +27,12 @@ My goal is to become a **world-class software engineer** capable of building imp
 
 ## 🧠 Currently Learning
 
-- Advanced JavaScript (ES6+)
-- CSS frameworks and preprocessors (Tailwind CSS, Sass)
-- TypeScript + React.js
-- Building accessible and responsive web applications
-- Git, GitHub, and effective version control
+- Deepening my knowledge of **TypeScript + React/Next.js**
+- Exploring **Vue.js** for cross-framework versatility
+- Working with **Firebase & Supabase** for full-stack projects
+- Improving **web accessibility** and performance optimization
+- Advancing my **Git/GitHub workflow** and open-source collaboration
 
----
-
-## 🛠️ Projects I'm Working On
-
-- A **personal portfolio website** showcasing my projects, blog posts, and skills
-- A **responsive web app** with React + TypeScript for real-world practice
-- Mini-projects exploring **state management**, **API integrations**, and **UI design**
-
----
 
 ## 🤝 Let’s Collaborate
 
@@ -63,15 +54,49 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,firebase,supabase,git,github,vscode" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-edetedkikan647@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:edetedkikan647@gmail.com)
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pokah1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-odokwo--dev01-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/odokwo-dev01/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pokah1&theme=radical" alt="GitHub Streak" />
+</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-@sir__pokah-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/sir_pokah)
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokah1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-<p align="center"> Thank you for visiting my GitHub! Let’s connect and build the future together. 🚀</p>
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github.com/Pokah1/Pokah1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
+### 📫 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [PokahDev](https://github.com/Pokah1)
