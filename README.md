@@ -86,19 +86,23 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
 
 ### 📫 Connect with Me  
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/odokwo-dev01/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Sir_Pokah" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" 
+         alt="Twitter" width="40" height="40" style="background-color:white; border-radius:50%; padding:5px;"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:edikanodokwo@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+         alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
