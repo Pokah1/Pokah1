@@ -93,7 +93,7 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Sir_Pokah" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" 
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" 
          alt="Twitter" width="40" height="40" style="background-color:white; border-radius:50%; padding:5px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -102,6 +102,7 @@ I'm always open to collaborating on exciting, impactful frontend projects — es
          alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
